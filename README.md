@@ -2,7 +2,7 @@
 
 An end-to-end pipeline that detects emotion in user text and generates an empathetic, context-aware response — combining a fine-tuned classifier with a fine-tuned generative model via LoRA.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/empathetic-response-ai/blob/main/notebooks/phase1_2_3_training.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/arya7113/empathetic-response-ai/blob/main/empatheticResponseAI.ipynb)
 
 ## Overview
 
@@ -63,7 +63,7 @@ Being upfront about where this system currently falls short:
 \`\`\`
 empathetic-response-ai/
 ├── notebooks/
-│   └── phase1_2_3_training.ipynb
+│   └── empatheticResponseAI.ipynb
 ├── data/
 │   ├── empathy_dataset_v2.csv
 │   └── empathy_dataset_v3.csv
