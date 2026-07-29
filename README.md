@@ -59,13 +59,17 @@ Being upfront about where this system currently falls short:
 - Models: `distilbert-base-uncased`, `microsoft/DialoGPT-medium`
 
 ## Repository Structure
+
+\`\`\`
+empathetic-response-ai/
 ├── notebooks/
-│ └── phase1_2_3_training.ipynb # Full training pipeline (classifier + generator)
+│   └── phase1_2_3_training.ipynb
 ├── data/
-│ ├── empathy_dataset_v2.csv # Cleaned synthetic dataset (2,550 examples)
-│ └── empathy_dataset_v3.csv # Expanded dataset (4,550 examples)
+│   ├── empathy_dataset_v2.csv
+│   └── empathy_dataset_v3.csv
 ├── requirements.txt
 └── README.md
+\`\`\`
 
 ## Next Steps
 
